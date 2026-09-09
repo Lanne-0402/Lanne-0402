@@ -26,5 +26,3 @@ I am a fourth-year student majoring in Multimedia Application Development at PTI
 ### Profile của tôi
 - [Profile Nông Thị Hồng Lan](https://lanne-0402.github.io/Profile-Lanne/)
 
----
-[![](https://komarev.com/ghpvc/?username=Lanne-0402&icon=2&color=0)](https://visitcount.itsvg.in)
