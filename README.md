@@ -16,15 +16,15 @@ I am a fourth-year student majoring in Multimedia Application Development at PTI
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lanne-0402&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github.com/Lanne-0402/WhackaMole_LTGame1.git)
-![](https://github.com/Lanne-0402/NCKH_GamePx2DPHCN_2026_LanHan.git)
-![](https://github.com/Lanne-0402/Doan_Kythuatdohoa_N5_LanHanDiepUy.git)
-![](https://github.com/Hanari05/Vehicle-identification-counting-App.git)
-![](https://github.com/Lanne-0402/Web-Cake-Store.git)
-![](https://github.com/Lanne-0402/Timekeeping-Gr3.git)
+- [Dự án Demo game Whack a Mole](https://github.com/Lanne-0402/WhackaMole_LTGame1.git)
+- [Dự án Nghiên cứu khoa học Game 2D Pixel Phục hồi chức năng](https://github.com/Lanne-0402/NCKH_GamePx2DPHCN_2026_LanHan.git)
+- [Đồ án môn Kỹ thuật đồ hoạ](https://github.com/Lanne-0402/Doan_Kythuatdohoa_N5_LanHanDiepUy.git)
+- [Đồ án Nhận diện loại xe và đếm số lượng xe](https://github.com/Hanari05/Vehicle-identification-counting-App.git)
+- [Đồ án Trang web bánh Halo Sweet](https://github.com/Lanne-0402/Web-Cake-Store.git)
+- [Đồ án Mini App Chấm công nhân viên Timekeeping-Gr3](https://github.com/Lanne-0402/Timekeeping-Gr3.git)
 
 ### Profile của tôi
-![](https://lanne-0402.github.io/Profile-Lanne/)
+- [Profile Nông Thị Hồng Lan](https://lanne-0402.github.io/Profile-Lanne/)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Lanne-0402&icon=2&color=0)](https://visitcount.itsvg.in)
