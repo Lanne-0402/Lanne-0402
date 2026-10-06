@@ -3,7 +3,8 @@ I am a fourth-year student majoring in Multimedia Application Development at PTI
 <br>I am pursuing a career as a Game Designer and Game Developer.<br>
 <br>I am currently seeking an internship opportunity in the Game or Application Development industry.<br>
 
-
+### Web Profile của tôi
+- [Profile Nông Thị Hồng Lan](https://lanne-0402.github.io/Profile-Lanne/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1KYu88MztF/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lan._.sgcdkd?stkn=dW4zNXV5NWoxczl5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:honglanbd@gmail.com) 
@@ -23,6 +24,4 @@ I am a fourth-year student majoring in Multimedia Application Development at PTI
 - [Đồ án Trang web bánh Halo Sweet](https://github.com/Lanne-0402/Web-Cake-Store.git)
 - [Đồ án Mini App Chấm công nhân viên Timekeeping-Gr3](https://github.com/Lanne-0402/Timekeeping-Gr3.git)
 
-### Profile của tôi
-- [Profile Nông Thị Hồng Lan](https://lanne-0402.github.io/Profile-Lanne/)
 
